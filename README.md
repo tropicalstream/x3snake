@@ -4,6 +4,13 @@ A modern, synthwave take on Snake for the RayNeo X3 Pro AR glasses — neon vect
 graphics, glow, particle bursts, smooth interpolated motion, all on a pure-black
 (waveguide-transparent) canvas so the game floats in the real world.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="X3 Snake title screen with synthwave sunset">
+  <img src="images/gameplay.png" width="45%" alt="X3 Snake gameplay with gradient snake and food">
+</p>
+
 Built entirely on the **proven** X3 rendering path (WanderQuest / TapInsight): a
 custom Canvas `SnakeView` inside a dual-draw `BinocularSbsLayout`. **No libVLC, no
 SurfaceView, no external dependencies** — just the Android SDK, so there's nothing
